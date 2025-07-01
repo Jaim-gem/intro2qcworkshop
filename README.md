@@ -20,6 +20,6 @@ LinkedIn: [jaimiegreasley](https://www.linkedin.com/in/jaimiegreasley/)
 
 ## Acknowledgements
 
-The author would like to acknowledge funding from the Digital Research Alliance of Canada for supporting this project as part of the DRI EDIA Champions program.
-The author would also like to acknowledge the support of Let's Talk Science Canada (LTS), in particular Sophie Hudson, the UVic LTS Site Coordinator and Susie Brown, LTS Program Development Manager. 
+The author acknowledges funding from the Digital Research Alliance of Canada in support of this project as part of the Alliance's DRI EDIA Champions program.
+The author acknowledges the support of Let's Talk Science Canada (LTS), in particular Sophie Hudson, the UVic LTS Site Coordinator and Susie Brown, LTS Program Development Manager. Finally, the author acknowledges the NSERC CREATE Quantum Computing program.
 
